@@ -1,2 +1,7 @@
 flask==2.0.2
 werkzeug==2.2.2
+mysql==8.0.28
+mysql-connector-python==8.0.28
+flask-sqlalchemy==3.0.3
+Flask-WTF==1.0.0
+Flask-Bcrypt==0.7.1
